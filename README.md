@@ -12,7 +12,7 @@ As funcionalidades presentes são:
 - Marcar uma tarefa como feita
 - Excluir uma tarefa
 
-O _template_ de arquivos utilizados neste projeto pode ser acessado em: [**template.**](https://github.com/rocketseat-education/ignite-template-trabalhando-com-middlewares)
+O _template_ de arquivos utilizados neste projeto pode ser acessado em: [**template.**](https://github.com/rocketseat-education/ignite-template-trabalhando-com-middlewares).
 
 ## 📋 Requisitos e Regras de Negócio
 O documento de referência de Requisitos e Regras de Negócio pode acessado através deste [**link.**](https://www.notion.so/Requisitos-e-Regras-de-Neg-cio-Middlewares-Desafio-2-Ignite-fb79d77b605b4f0b82fb8b1a96712fb3)
