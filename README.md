@@ -3,7 +3,7 @@
 <br>
 
 ## :pushpin: Sobre o Desafio
-Este desafio tem como objetivo o desenvolvimento de uma aplicação gerenciadora de **Tarefas** (_To-dos_), associadas a um **usuário**. Além disso, reforça o uso de middlewares como uma poderosa ferramenta de validação, criando uma aplicação com mais facilidade e eficiência. A aplicação utilizada como base encontra-se neste [**repositório**](https://github.com/Ygohr/todo-challenge-ignite-nodejs).
+Este desafio tem como objetivo o desenvolvimento de uma aplicação gerenciadora de **Tarefas** (_To-dos_), associadas a um **usuário**. Além disso, reforça o uso de middlewares como uma poderosa ferramenta de validação, criando uma aplicação com mais facilidade e eficiência. A aplicação utilizada como base encontra-se neste [**repositório**](https://github.com/Ygohr/todo-challenge-ignite-nodejs). <br/>
 Como uma nova propriedade do usuário, dessa vez teremos um plano grátis onde o usuário só pode criar até **dez** tarefas e um **plano Pro** que irá permitir criar todos ilimitados, isso tudo usando middlewares para fazer as validações necessárias.
 As funcionalidades presentes são:
 - Criar uma nova tarefa
